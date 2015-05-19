@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layouts", "Layouts\Layouts.csproj", "{98DA9E3A-E85A-4DC8-A0AB-F5273E9A7B73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{15721EF0-D492-468C-A6EB-8980D6AE1CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTemplates", "ControlTemplates\ControlTemplates.csproj", "{615ACEBC-D458-4503-9CC0-2D0FBB8EB9C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{98DA9E3A-E85A-4DC8-A0AB-F5273E9A7B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98DA9E3A-E85A-4DC8-A0AB-F5273E9A7B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98DA9E3A-E85A-4DC8-A0AB-F5273E9A7B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15721EF0-D492-468C-A6EB-8980D6AE1CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15721EF0-D492-468C-A6EB-8980D6AE1CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15721EF0-D492-468C-A6EB-8980D6AE1CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15721EF0-D492-468C-A6EB-8980D6AE1CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615ACEBC-D458-4503-9CC0-2D0FBB8EB9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615ACEBC-D458-4503-9CC0-2D0FBB8EB9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615ACEBC-D458-4503-9CC0-2D0FBB8EB9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615ACEBC-D458-4503-9CC0-2D0FBB8EB9C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
